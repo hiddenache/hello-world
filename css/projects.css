@@ -1,0 +1,19 @@
+.projects-container {
+    position: absolute;
+    z-index: 10;
+    width: 80%;
+    top: 20%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    row-gap: auto;
+    text-align: center;
+    justify-content: space-between;
+    left: 10%;
+}
+
+.img {
+    width: 20%;
+    cursor: pointer;
+    margin: 20px 10px;
+}
